@@ -1,0 +1,3 @@
+rootProject.name='SpannableKtx'
+include ':app'
+include ':spannablektx'
