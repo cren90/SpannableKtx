@@ -1,4 +1,4 @@
-package com.cren90.spannablektx.sample
+package com.cren90.spannableKtx.sample
 
 import android.graphics.Color
 import android.os.Bundle

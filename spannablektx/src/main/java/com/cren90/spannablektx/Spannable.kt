@@ -2,6 +2,8 @@
  * Created by Chris Renfrow on 4/28/20.
  */
 
+@file:Suppress("unused")
+
 package com.cren90.spannablektx
 
 import android.text.Spannable
