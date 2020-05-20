@@ -22,7 +22,7 @@ allprojects {
 dependencies {
     // other dependencies here
     
-	        implementation 'com.github.cren90:spannablektx:<version>'
+	        implementation 'com.github.cren90:SpannableKtx:<version>'
 	}
 ```
 
